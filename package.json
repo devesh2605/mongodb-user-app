@@ -1,0 +1,24 @@
+{
+  "name": "mongodb-user-app",
+  "version": "1.0.0",
+  "description": "Nodejs mongodb crud opreation app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "crud"
+  ],
+  "author": "Devesh Vyas",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "crypto": "^1.0.1",
+    "express": "^4.16.1",
+    "helmet": "^3.8.2",
+    "mongoose": "^4.12.0"
+  }
+}
